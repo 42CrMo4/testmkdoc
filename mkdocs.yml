@@ -95,7 +95,8 @@ repo_url: https://github.com/Andre601/mkdocs-template
 nav:
   - Welcome: index.md
   - Why this site: Test.md
-  - P00x: p/00x.md
+  - Pxx: p/index.md
+    - P00x: p/00x.md
 
 # +--------------------------------------------------------------------------------------------------------+
 # |                                                                                                        |
